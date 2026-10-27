@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "codigo": 1,
+      "nome": "feijao",
+      "preco": 3.0,
+      "estoque": 0
+    }
+  ],
+  "vendas": [
+    {
+      "itens": [
+        {
+          "nome": "feijao",
+          "qtd": 12,
+          "subtotal": 36.0
+        }
+      ],
+      "total": 36.0
+    }
+  ]
+}
